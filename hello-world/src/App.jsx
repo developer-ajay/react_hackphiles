@@ -1,6 +1,7 @@
+import Card from "./Components/Card";
 
 export default function App() {
 
-  return <div>Hello World!</div>
-  
+   return(
+    <Card/>   )
 }
